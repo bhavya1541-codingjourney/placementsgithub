@@ -1,4 +1,11 @@
-import java.util.*;
+// Problem: sum of each collumn in the matrix i.e. 2d array
+// Approach: bruteforce  
+// Time Complexity:  O(n square)  
+// Space Complexity:  O(1) no extra space taken 
+// Author: Bhavya
+
+
+// import java.util.*;
 class SumOfEachColInMatrix
 {
     public static void main(String[] args) {

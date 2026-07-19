@@ -1,4 +1,10 @@
-import java.util.*;
+// Problem: Print the rotated 2d array by 90 degree rightside
+// Approach: Brute Force (using an extra matrix)   original -->> transpose -->> reverse colums
+// Time Complexity: O(n²)
+// Space Complexity: O(n²)
+// Author: Bhavya
+
+// import java.util.*;
 class RotateNintyDegByRight
 {
     public static void main(String[] args)

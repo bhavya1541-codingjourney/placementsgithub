@@ -1,3 +1,11 @@
+// Problem: Print the sorted array using Bubble Sort
+// Approach: Bubble Sort
+// Time Complexity: O(n²)
+// Space Complexity: O(1)
+// Author: Bhavya
+
+
+import java.util.*;
 class BubbleSort
 {
     public static void main(String[] args) {
@@ -14,6 +22,6 @@ class BubbleSort
                     }
 
             }
-        }
+        }System.err.println("the sorted array is: "+Arrays.toString(arr));
     }
 }

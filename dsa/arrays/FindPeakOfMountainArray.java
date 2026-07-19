@@ -1,3 +1,9 @@
+// Problem: Search index of the peak element in the array 
+// Approach: Apply Binary Search
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
+// Author: Bhavya
+
 class FindPeakOfMountainArray
 {
    public static void main(String[] args) {

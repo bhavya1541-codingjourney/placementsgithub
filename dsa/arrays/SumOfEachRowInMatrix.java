@@ -1,3 +1,9 @@
+// Problem: sum of each row in the matrix i.e. 2d array
+// Approach: bruteforce  
+// Time Complexity:  O(n square)  
+// Space Complexity:  O(n) no
+// Author: Bhavya
+
 import java.util.*;
 class SumOfEachRowInMatrix
 {

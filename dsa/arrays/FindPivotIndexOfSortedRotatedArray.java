@@ -1,3 +1,9 @@
+// Problem: Find the pivot element index in the sorted rotated array
+// Approach: Apply Binary Search
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
+// Author: Bhavya
+
 class FindPivotIndexOfSortedRotatedArray
 {
     public static void main(String[] args) {
@@ -15,6 +21,6 @@ class FindPivotIndexOfSortedRotatedArray
                 position=mid;
                 start=mid+1;
             }
-        }System.err.println("the position of the pivot element in array is: "+position);
+        }System.out.println("the position of the pivot element in array is: "+position);
     }
 }

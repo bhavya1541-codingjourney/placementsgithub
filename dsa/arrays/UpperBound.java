@@ -1,3 +1,9 @@
+// Problem: Search index of UPPER bound for the target element in the array
+// Approach: Apply Binary Search
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
+// Author: Bhavya
+
 class UpperBound
 {
     public static void main(String[] args)
@@ -17,6 +23,6 @@ class UpperBound
                 end=mid-1;
             }
 
-        }System.err.println("upper bound index: "+position);
+        }System.out.println("upper bound index: "+position);
     }
 }

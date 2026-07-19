@@ -1,3 +1,9 @@
+// Problem: Print the max sum from the continuous subarray in the array
+// Approach: kadane's algorithm
+// Time Complexity:  O(n)  
+// Space Complexity:  O(1) no extra space taken 
+// Author: Bhavya
+
 class KadaneAlogorithm          
 {
     public static void main(String[] args) {

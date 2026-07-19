@@ -1,4 +1,11 @@
-import java.util.*;
+// Problem: Print the wave pattern in the matrix
+// Approach: bruteforce  with 2 conditions
+// Time Complexity:  O(n square)  
+// Space Complexity:  O(1) no extra space taken 
+// Author: Bhavya
+
+
+// import java.util.*;
 class WavePrintMatrix
 {
     public static void main(String[] args)

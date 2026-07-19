@@ -1,3 +1,9 @@
+// Problem: Print the sorted array using Bubble Sort
+// Approach: Insertion Sort
+// Time Complexity: O(n²)
+// Space Complexity: O(1)
+// Author: Bhavya
+
 import java.util.Arrays;
 
 class InsertionSort {

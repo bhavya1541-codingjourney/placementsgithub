@@ -1,4 +1,10 @@
-import java.util.*;
+// Problem: Print the transpose of the matrix
+// Approach: Brute Force (using an extra matrix)
+// Time Complexity: O(n²)
+// Space Complexity: O(n²)
+// Author: Bhavya
+
+// import java.util.*;
 class Transpose
 {
     public static void main(String[] args)

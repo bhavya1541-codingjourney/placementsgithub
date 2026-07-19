@@ -1,3 +1,9 @@
+// Problem: Search index of lower bound for the target element in the array
+// Approach: apply Binary Search algorithm 
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
+// Author: Bhavya
+
 class LowerBound
 {
     public static void main(String[] args) {
@@ -15,6 +21,6 @@ class LowerBound
             {
                 start=mid+1;
             }
-        }System.err.println("lower bound index is: "+position);
+        }System.out.println("Lower bound index is: " + position);
     }
 }

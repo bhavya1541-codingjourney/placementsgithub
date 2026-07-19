@@ -1,3 +1,8 @@
+// Problem: Find the missing element from the array of duplicates
+// Approach: index marking approach
+// Time Complexity:  O(n)  
+// Space Complexity:  O(1) no extra space taken 
+// Author: Bhavya
 
 class MissingElementsFromAnArrayOfDuplicates
 {
